@@ -26,3 +26,8 @@ body {
     max-width: 1540px;
     height: auto;
 }
+
+.projects {
+    height: auto;
+    width: 100%;
+}
